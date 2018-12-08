@@ -39,6 +39,8 @@ Naive Bayes Model Accuracy
 ![modelAcc](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Accuracy.JPG)
 Naive Bayes Model Kappa
 ![modelK](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Kappa.JPG)
+Each predicted service grouping as a percentage of the total amount of service tickets in dataset 
+![theResult](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/total%20predicted.JPG)
 Accuracy of our predictions compared to original data service groupings 
 ![realAccuracy](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/of_total_accuracy.JPG)
 Accuracy of our predictions by individual service grouping
