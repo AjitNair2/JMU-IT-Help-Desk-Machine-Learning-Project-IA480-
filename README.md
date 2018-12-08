@@ -13,6 +13,7 @@ Word Link that links words with high frequency's in troubleshooting notes, with 
 ![WordLink](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Wordlink.png)
 
 Highest Frequency words in Troubleshooting notes 
+
 ![wordoccurance](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Occurances%20of%20words.PNG)
 
 ## Constraints of Project and Project Setup
