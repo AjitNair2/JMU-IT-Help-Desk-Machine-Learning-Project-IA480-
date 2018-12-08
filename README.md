@@ -11,7 +11,7 @@ There were a few constraints with our dataset for this project. Some service cat
 
 ### RapidMiner Processes used in project
 1st Process Used in Rapid Miner 
-![1st Process](JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/ProjectImages/1st_Process.JPG)
+![1st Process](https://dalto2wk.github.com/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/ProjectImages/1st_Process.JPG)
       
 ## Machine Learning Model and Parameters
 We chose to use Naive Bayes to classify service groupings for our dataset of support ticket troubleshooting notes. Naive Bayes is a good model to use when analyzing categorical data. It also performs well when trying to predict a classification. Using Naive Bayes in RapidMiner requires a datafield to be a label. We were able to apply this in our project because support ticket service groupings are also a label. The data that was being analyzed to make the service grouping prediction was the troubleshooting notes field which is considered as regular data in RapidMiner. Since we had the correct parameters to apply Naive Bayes in RapidMiner we decided it was the best choice for us. Naive Bayes also performed well when attempting to predict positive and negative tweets based on the contents of the tweet. Our project uses Naive Bayes in a similar way.  
