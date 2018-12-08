@@ -8,6 +8,7 @@ Each service grouping as a percentage of the total amount of service tickets in 
 ![Before data](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/total_real.JPG)
 Word Cloud of words with the highest frequency in trouble shooting notes in the original dataset
 ![WordCloud](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/wordcloud)
+
 Word Link that links words with high frequency's in troubleshooting notes, with keywords
 ![WordLink](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Wordlink.png)
 ## Constraints of Project and Project Setup
