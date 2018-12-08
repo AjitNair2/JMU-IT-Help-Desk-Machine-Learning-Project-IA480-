@@ -11,6 +11,7 @@ Word Cloud of words with the highest frequency in trouble shooting notes in the 
 
 Word Link that links words with high frequency's in troubleshooting notes, with keywords
 ![WordLink](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Wordlink.png)
+
 Highest Frequency words in Troubleshooting notes 
 ![wordoccurance](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/Occurances%20of%20words.PNG)
 
