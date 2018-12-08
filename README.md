@@ -22,7 +22,8 @@ There were a few constraints with our dataset for this project. Some service cat
 ### RapidMiner Processes used in project
 1st Process Used in Rapid Miner 
 ![1st Process](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/1st_Process.JPG)
- 2nd Process Used in Rapid Miner
+
+2nd Process Used in Rapid Miner
 ![2nd Process](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/2nd_Process.JPG)
 3rd Process Used in Rapid Miner
 ![3rd Process](https://github.com/dalto2wk/JMU-IT-Help-Desk-Machine-Learning-Project-IA480-/blob/master/ProjectImages/3rd_Process.JPG)
